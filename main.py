@@ -50,9 +50,3 @@ def get_book_text(path):
 
 
 main()
-
-
-# new function
-# return number of characters in the book
-# convert characters to lowercase
-# dictionary of str -> int
